@@ -5,7 +5,7 @@
 ___________
 #### Privacy
 The app privacy report in Settings shows you how often apps have accessed your location, photos, camera, microphone, contacts, and more in the last seven days.
-####Apple ID
+#### Apple ID
 The Digital Inheritance feature lets you designate people as digital heirs so they can access your iCloud account and personal information in the event of death.
 #### Camera
 You can turn on the macro-control in Settings to switch to the ultra-wide lens for macro photos and videos on iPhone 13 Pro and iPhone 13 Pro Max.
