@@ -137,7 +137,7 @@ ___________
 #### Other features and improvements:
 * Tags in Notes and Reminders help you quickly organize items for easy retrieval, and in custom smart folders and smart lists, you can automatically collect notes and reminders based on set rules.
 * Support for mentions in Notes allows you to notify other participants of important changes to shared notes, and the new "Activity" mode displays all recent changes in the form of a single list.
-*Apple Music supports spatial audio with dynamic head tracking for an even more immersive Dolby Atmos surround sound experience on AirPods Pro and AirPods Max.
+* Apple Music supports spatial audio with dynamic head tracking for an even more immersive Dolby Atmos surround sound experience on AirPods Pro and AirPods Max.
 * In any application, including in the photo, you can select the text and translate it with one touch.
 * Added new widgets including Latitude, Contacts, App Store, Sleep, Game Center, and Mail.
 * Images, documents, and files can be dragged from one application to another.
