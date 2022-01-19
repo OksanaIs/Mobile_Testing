@@ -28,7 +28,7 @@ https://developer.android.com/docs/quality-guidelines/core-app-quality
 * All network traffic must be sent over SSL.
 
 #### Support for all screen types and states:
-* The app must update the user interface (keep playing videos, update new messages, update download progress, etc.).
+* The app must update the user interface (keep playing videos, update new messages, update download progress, etc).
 * Modals, options menus, and other secondary elements should be well-formatted on all screen types and in all states.
 
 #### Testing:
