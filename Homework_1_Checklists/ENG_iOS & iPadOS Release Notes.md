@@ -26,7 +26,7 @@ Apple Maps provides an enhanced city map with detailed road information, includi
 
 ### iOS and iPadOS 15.2 release notes
 ___________
-####Shareplay:
+#### Shareplay:
 * This is a new way to share content from Apple TV, Music, and other supported App Store apps with everyone on a FaceTime call.
 * Any participant can pause, start and rewind content using the shared controls.
 * The volume of a movie, TV show or song is automatically reduced when the other party starts talking.
@@ -37,7 +37,7 @@ ___________
 Added support for recording ProRes video on iPhone 13 Pro and iPhone 13 Pro Max.
 You can now turn off automatic camera switching when taking macro photos or videos on iPhone 13 Pro and iPhone 13 Pro Max.
 
-####Apple Wallet
+#### Apple Wallet
 With support for COVID-19 vaccination cards, you can add and display verifiable vaccination data in Apple Wallet.
 
 #### Translation
@@ -90,7 +90,7 @@ ___________
 * An interactive 3D globe shows mountain ranges, deserts, forests, oceans, and more in greater detail (on iPhone XS, iPhone XS Max, iPhone XR, and later).
 * Updated place cards make it easier to learn about and interact with places, and the new Guides section offers specially selected places you'll love.
 
-####Safari:
+#### Safari:
 * The tab bar at the bottom allows you to navigate between tabs by swiping left or right.
 * In tab groups, you can save and organize your tabs so you can easily access them across all your devices.
 * All open tabs can be displayed in grid mode.
